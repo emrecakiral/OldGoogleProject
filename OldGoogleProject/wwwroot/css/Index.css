@@ -1,0 +1,38 @@
+﻿body {
+    background-color: #FFFFFF;
+    display: block;
+    margin: 8px;
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+#tb {
+    border: 0;
+    width: 90%;
+}
+
+#search {
+    background-color: #EEEEEE;
+}
+
+#leftBox {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+#midBox {
+    background-color: #70CCC2;
+}
+
+#rightBox {
+    background-color: #62B3AA;
+}
+
+table {
+    text-align:center;
+}
